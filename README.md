@@ -59,15 +59,15 @@ Any non-support character/emoji should be ignored and treated as a comment.
 ## Sample program
 This sample program reads the input stream and outputs it in reverse order.
 
-	🤎				         LABEL 1
-	❤️💛				       READ FROM INPUT AND STORE IN CELL
-	💜🧡🤍				     EXIT LOOP ONCE AT END OF INPUT STREAM
-	🧡💚				       INCREMENT CHARACTER COUNT
-	❤️🧡				       NEXT CELL
-	💜🤍🤍🤍🤍🤍🤍🤍🤍	   LOOP UNTIL ALL CHARACTERS ARE READ
+	🤎				   LABEL 1
+	❤️💛				   READ FROM INPUT AND STORE IN CELL
+	💜🧡🤍				  EXIT LOOP ONCE AT END OF INPUT STREAM
+	🧡💚				   INCREMENT CHARACTER COUNT
+	❤️🧡				   NEXT CELL
+	💜🤍🤍🤍🤍🤍🤍🤍🤍		LOOP UNTIL ALL CHARACTERS ARE READ
 	
-	🤎				         LABEL 2
-	❤️❤️				       MOVE 1 CELL LEFT
-	❤️💙				       READ FROM CELL AND STORE IN OUTPUT STREAM
-	🧡💛				       DECREMENT CHARACTER COUNT
-	💜💚🤍🤍🤍🤍🤍🤍🤍🤍	LOOP UNTIL ALL CHARACTERS ARE STREAMED TO OUTPUT
+	🤎				   LABEL 2
+	❤️❤️				   MOVE 1 CELL LEFT
+	❤️💙				   READ FROM CELL AND STORE IN OUTPUT STREAM
+	🧡💛				   DECREMENT CHARACTER COUNT
+	💜💚🤍🤍🤍🤍🤍🤍🤍🤍	        LOOP UNTIL ALL CHARACTERS ARE STREAMED TO OUTPUT
