@@ -71,3 +71,6 @@ This sample program reads the input stream and outputs it in reverse order.
 	❤️💙				   READ FROM CELL AND STORE IN OUTPUT STREAM
 	🧡💛				   DECREMENT CHARACTER COUNT
 	💜💚🤍🤍🤍🤍🤍🤍🤍🤍	        LOOP UNTIL ALL CHARACTERS ARE STREAMED TO OUTPUT
+
+## Dependencies
+* [Emoji.WPF](https://github.com/samhocevar/emoji.wpf)
